@@ -39,5 +39,5 @@ The performance of the model is evaluated using various metrics, including accur
 - Training the model
 - Evaluating the model
 
-# Project link
+# Project video link
 https://drive.google.com/file/d/1BTjcNpQFe4cbUu6dmRzsvKFlmdds6dwH/view?usp=drivesdk
